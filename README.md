@@ -12,3 +12,7 @@ We were required to help create, curate and collate quality datasets on GBV.
 
 ## Objective
 To help shed light on this topic, to lay the groundwork for informed actions and to support data-driven solutions to contribute to the battle to end GBV.
+
+## Scraping
+
+I mostly sourced my data from Twitter using Tweepy. It was a great learning opportunity and I saved the different hashtags into a dataframe before exporting them to a csv for submission. 
